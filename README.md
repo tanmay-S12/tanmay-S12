@@ -5,7 +5,7 @@
 - Based in **Mumbai, India**.
 - See my portfolio at [**Tanmay Sankpal**](https://myportfolio-six-delta.vercel.app/).
 - Reach out to me [**Email**](mailto:sankpaltanmay893@gmail.com) or [**X/Twitter**](https://x.com/TanmaySankpal1).
-- Working with **React.js, Next.js, Typescript, Node.js, Express.js, TailwindCSS, MongoDB, MySQL** nowadays!
+- Working with **javascript, React.js, Next.js, Typescript, Node.js, Express.js, TailwindCSS, MongoDB, MySQL** nowadays!
 - Diving deep into **Full Stack Web Development**.
 
 ## Tools & Technologies
