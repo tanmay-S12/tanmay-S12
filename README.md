@@ -1,4 +1,4 @@
-# Hey! I'm Tanmay👋🏼
+# Hey! I'm Tanmay Sankpal 👋🏼
 
 ## Software Engineer | Front-End / Fullstack Developer 
 
@@ -20,3 +20,6 @@
 
 - Connect with me on [**X/Twitter**](https://x.com/TanmaySankpal1).
 - Add me on [**LinkedIn**](https://www.linkedin.com/in/tanmay-sankpal-a0054b245/).
+
+
+  ![](https://komarev.com/ghpvc/?username=tanmay-S12)
