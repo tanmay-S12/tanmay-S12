@@ -1,6 +1,5 @@
 ## Name : Tanmay Sankpal
 ## Education : B.E in Information Technology ( University of Mumbai )
-## Software Engineer | Front-End / Fullstack Developer 
 ## Experience : 
    **Web-Developer - PipalTees&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oct'23 - Jan'24**
    - Developed a fully responsive e-commerce website with a beautiful and smooth UI,
@@ -19,10 +18,10 @@
 <hr>
 
     
-    
 
-   
 
+
+  
 - Based in **Mumbai, India**.
 - See my portfolio at [**Tanmay Sankpal**](https://myportfolio-six-delta.vercel.app/).
 - Reach out to me [**Email**](mailto:sankpaltanmay893@gmail.com) or [**X/Twitter**](https://x.com/TanmaySankpal1).
